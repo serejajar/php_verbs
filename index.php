@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+<!--не нужный коментарий -->
 <?php
 
 require 'includes/dbconf.php';
