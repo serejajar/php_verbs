@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;  
+}
+.verb {
+  margin: 0 auto;
+  text-align: center;
+}
+.verb-button,
+.alert-message {
+  padding: 10px;
+  border-radius: 5px;
+}
+.verb-danger {
+  background-color: #f2dede;
+  color: #c83737;
+}
+.verb-succes {
+  background-color: #dff0d8;
+  color: #447821;
+}
+.verb-info {
+  background-color: #d9edf7;
+  color: #5599ff;
+}
+
+.verb-button {
+  background-color: #5cb85c;
+  border-color: none;
+  color: #fff;
+}
